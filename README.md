@@ -118,7 +118,7 @@ When using this template, please:
 
 - Keep the footer credit linking to this repository
 - Include "Built with Alvin LFC UI" in your site footer or about page
-- Link back to: `https://github.com/alvinlfc/alvinlfc-ui`
+- Link back to: `https://github.com/alvinlfc/alvinlfc-ui` or [alvinlfc.com](https://alvinlfc.com)
 
 ## 🤝 Contributing
 
@@ -139,6 +139,6 @@ If you have questions or need help customizing the template:
 
 ---
 
-**Vibe Coded by [Alvin Lim](https://github.com/alvinlfc-ui)**
+**Vibe Coded by [Alvin Lim](https://alvinlfc.com)**
 
 _Give this repo a ⭐ if you found it helpful!_
