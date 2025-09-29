@@ -4,6 +4,20 @@ A modern, brutalist-style personal portfolio template with a unique neon-noir ae
 
 [🌐 View Live Preview](https://alvinlfc.com)
 
+## 🚀 Quick Start
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/alvinlfc/alvinlfc-ui.git
+cd alvinlfc-ui
+```
+
+### Get Started
+1. Open `template.html` in your web browser
+2. Customize the content with your personal information
+3. Deploy to your preferred hosting platform
+
 ## 📝 Customization Guide
 
 ### Personal Information
